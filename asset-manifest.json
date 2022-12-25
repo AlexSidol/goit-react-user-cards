@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-user-cards/static/css/main.d91f5f24.css",
+    "main.js": "/goit-react-user-cards/static/js/main.73f2fb10.js",
+    "static/media/Picture.png": "/goit-react-user-cards/static/media/Picture.dad7b83150730e948021.png",
+    "index.html": "/goit-react-user-cards/index.html",
+    "main.d91f5f24.css.map": "/goit-react-user-cards/static/css/main.d91f5f24.css.map",
+    "main.73f2fb10.js.map": "/goit-react-user-cards/static/js/main.73f2fb10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d91f5f24.css",
+    "static/js/main.73f2fb10.js"
+  ]
+}
