@@ -17,8 +17,8 @@ export const User = ({ userItem }) => {
           <img src={avatar} alt={user} className={css.card__avatar} />
         </div>
       </div>
-      <p className="tweets">{tweets} tweets</p>
-      <p className="followers">{followers} followers</p>
+      <p className={css.card__tweets}>{tweets} tweets</p>
+      <p className={css.card__followers}>{followers} followers</p>
       <button className={css.card__button} type="button">
         Follow
       </button>

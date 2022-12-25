@@ -4,14 +4,14 @@
 "user": "Elon Reeve Musk",
 "tweets": 777,
 "followers": 100500,
-"avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png"
+"avatar": "https://assets.website-files.com/6255afae011f05232dbd680b/625d975369b5b7dcef69a085_Untitled%20design%20-%202022-04-18T095219.099.png"
 },
 {
 "id": 2,
 "user": "Jeff Bezos",
 "tweets": 666,
 "followers": 100600,
-"avatar": "url.jpg"
+"avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKdSUoqAs-vHiNjYC5-daOOC0XV5j8UQaqSJEwzfistWN2p1s0ZgRveKeecxmRTJ30f0&usqp=CAU"
 },
 
 {
@@ -19,7 +19,7 @@
 "user": "Bernard Arnault",
 "tweets": 999,
 "followers": 100900,
-"avatar": "url.jpg"
+"avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMtEdgNI6ouLFNTSE8uLm11COGVNnugpupZo2q-cpfUMiG96aADjsEnUoQD16SXMTQ_A&usqp=CAU"
 },
 
 {
@@ -27,7 +27,7 @@
 "user": "Bill Gates",
 "tweets": 888,
 "followers": 100800,
-"avatar": "url.jpg"
+"avatar": "https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg"
 },
 
 {
@@ -35,20 +35,20 @@
 "user": "Warren Buffett",
 "tweets": 111,
 "followers": 100100,
-"avatar": "url.jpg"
+"avatar": "https://www.reuters.com/resizer/n5y7_jBNH-N5ytVtYT-YBFgualg=/1920x1920/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NMNDLAA365LQZCZYYGTAMJYXWY.jpg"
 },
 {
 "id": 6,
 "user": "Mark Zuckerberg",
 "tweets": 222,
 "followers": 100200,
-"avatar": "url.jpg"
+"avatar": "https://i.pinimg.com/736x/56/78/4d/56784dfcc624e322c04e1037ba83ae09.jpg"
 },
 {
 "id": 7,
 "user": "Amancio Ortega",
 "tweets": 333,
 "followers": 100300,
-"avatar": "url.jpg"
+"avatar": "https://upload.wikimedia.org/wikipedia/kk/0/04/Amancio_Ortega.jpg"
 }
 ]

@@ -36,6 +36,20 @@
   border: transparent;
 
   color: #373737;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+
+  /* Landing/button text color */
+
+  color: #373737;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
 .card__button--change {
@@ -102,4 +116,38 @@
   height: 72px;
 
   border-radius: 36px;
+}
+
+.card__tweets {
+  position: absolute;
+  width: 158px;
+  height: 29px;
+  left: 148px;
+  top: 333px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: uppercase;
+
+  color: #ebd8ff;
+}
+
+.card__followers {
+  position: absolute;
+  width: 257px;
+  height: 29px;
+  left: 99px;
+  top: 382px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: uppercase;
+
+  color: #ebd8ff;
 }
