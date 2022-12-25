@@ -1,0 +1,54 @@
+[
+{
+"id": 1,
+"user": "Elon Reeve Musk",
+"tweets": 777,
+"followers": 100500,
+"avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png"
+},
+{
+"id": 2,
+"user": "Jeff Bezos",
+"tweets": 666,
+"followers": 100600,
+"avatar": "url.jpg"
+},
+
+{
+"id": 3,
+"user": "Bernard Arnault",
+"tweets": 999,
+"followers": 100900,
+"avatar": "url.jpg"
+},
+
+{
+"id": 4,
+"user": "Bill Gates",
+"tweets": 888,
+"followers": 100800,
+"avatar": "url.jpg"
+},
+
+{
+"id": 5,
+"user": "Warren Buffett",
+"tweets": 111,
+"followers": 100100,
+"avatar": "url.jpg"
+},
+{
+"id": 6,
+"user": "Mark Zuckerberg",
+"tweets": 222,
+"followers": 100200,
+"avatar": "url.jpg"
+},
+{
+"id": 7,
+"user": "Amancio Ortega",
+"tweets": 333,
+"followers": 100300,
+"avatar": "url.jpg"
+}
+]

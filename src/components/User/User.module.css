@@ -1,0 +1,105 @@
+.card {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  width: 454px;
+  height: 547px;
+
+  background: linear-gradient(
+    114.99deg,
+    #471ca9 -0.99%,
+    #5736a3 54.28%,
+    #4b2a99 78.99%
+  );
+  box-shadow: -3px 8px 24px rgba(0, 0, 0, 0.23);
+  border-radius: 24px;
+}
+
+.card__button {
+  position: absolute;
+  left: 114px;
+  top: 443px;
+
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 226px;
+  height: 56px;
+  padding: 16px 32px;
+
+  background: #ebd8ff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  border: transparent;
+
+  color: #373737;
+}
+
+.card__button--change {
+  background: #5cd3a8;
+}
+
+.logo {
+  position: absolute;
+  width: 88px;
+  height: 26px;
+  left: 24px;
+  top: 24px;
+}
+
+.picture {
+  position: absolute;
+  width: 357px;
+  height: 193px;
+  left: 52px;
+  top: 34px;
+}
+
+.element {
+  position: absolute;
+  width: 454px;
+  height: 8px;
+  left: 0px;
+  top: 251px;
+
+  background: #ebd8ff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.06), inset 0px -2px 4px #ae7be3,
+    inset 0px 4px 3px #fbf8ff;
+}
+
+.ellipse {
+  position: absolute;
+  width: 72px;
+  height: 72px;
+  left: 10px;
+  top: 10px;
+
+  border-radius: 100px;
+
+  background: #5736a3;
+}
+
+.ellipse__stroke {
+  position: absolute;
+  width: 92px;
+  height: 92px;
+  left: 181px;
+  top: 209px;
+
+  background: #ebd8ff;
+  box-shadow: 0px 5.11111px 5.11111px rgba(0, 0, 0, 0.06),
+    inset 0px -2.55556px 5.11111px #ae7be3,
+    inset 0px 5.11111px 3.83333px #fbf8ff;
+  border-radius: 46px;
+}
+
+.card__avatar {
+  position: absolute;
+  width: 72px;
+  height: 72px;
+
+  border-radius: 36px;
+}
