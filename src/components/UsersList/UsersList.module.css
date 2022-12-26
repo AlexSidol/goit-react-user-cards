@@ -1,5 +1,7 @@
 .cards__block {
+  padding: 20px 30px;
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 20px;
 }

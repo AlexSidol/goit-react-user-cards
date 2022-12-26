@@ -38,7 +38,7 @@
   color: #373737;
   font-weight: 600;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   text-transform: uppercase;
 
   /* Landing/button text color */
@@ -52,7 +52,8 @@
   flex-grow: 0;
 }
 
-.card__button--change {
+.button__change {
+  composes: card__button;
   background: #5cd3a8;
 }
 
@@ -126,10 +127,9 @@
   top: 333px;
 
   font-family: 'Montserrat';
-  font-style: normal;
   font-weight: 500;
   font-size: 24px;
-  line-height: 29px;
+  line-height: 0.82;
   text-transform: uppercase;
 
   color: #ebd8ff;
@@ -137,7 +137,7 @@
 
 .card__followers {
   position: absolute;
-  width: 257px;
+  min-width: 257px;
   height: 29px;
   left: 99px;
   top: 382px;
@@ -146,7 +146,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
-  line-height: 29px;
+  line-height: 0.82;
   text-transform: uppercase;
 
   color: #ebd8ff;
