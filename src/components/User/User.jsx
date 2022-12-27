@@ -43,6 +43,4 @@ export class User extends Component {
   }
 }
 
-//   console.log(id, user, tweets, followers, avatar);
-
 export default User;

@@ -49,12 +49,3 @@ export class App extends Component {
     );
   }
 }
-
-// export const App = () => {
-//   return (
-//     <div className={css.section}>
-//       <UsersList users={users} />
-//       <GlobalStyleComponent />
-//     </div>
-//   );
-// };
